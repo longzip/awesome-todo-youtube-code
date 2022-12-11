@@ -14,7 +14,7 @@
     "quasar": "^1.0.0-beta.0"
   },
   "devDependencies": {
-    "@quasar/app": "^1.0.0-beta.0",
+    "@quasar/app": "^1.9.6",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
     "strip-ansi": "=3.0.1"
